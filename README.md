@@ -1,11 +1,11 @@
 
-<h1>Bonjour!! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1616468410/23789/hello-kitty.gif?1616468410" width="35"></h1>
+<h1>Bonjour!! <img alt="wave" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"> </h1>
 
 I'm Gurjot, a pre-final year student at NIT Rourkela, India, pursuing a degree in Metallurgical and Materials Engineering. I am passionate about developing user-centric projects and have a flair for creating visually captivating designs. My interests extend beyond engineering into the realms of Video Editing and Cinematography, where I bring stories to life through compelling visuals and innovative techniques.
 
 > Internet is a powerful tool, and I'm passionate about using it to a difference.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Web+Developer;UI/Video+Editor;Skil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Web+Developer+with+a+Creative+Flair;Avid+DSA+Solver;Video+Editor+with+Creative+Touch)](https://git.io/typing-svg)
 
 
 
